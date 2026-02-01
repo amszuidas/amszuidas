@@ -37,3 +37,4 @@ The goal? Strip away the complexity and show the elegant simplicity of agentic s
 
 - 🐙 GitHub: [@AmsZuidas](https://github.com/amszuidas)
 - 📕 小红书 (Xiaohongshu): [@Ams赵达思](https://xhslink.com/m/7pdkNvQvce2)
+- 🎵 抖音 (Douyin): [@Ams赵达思](https://v.douyin.com/qUFkKqIszEo/)
