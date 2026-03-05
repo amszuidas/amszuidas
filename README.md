@@ -16,15 +16,11 @@ I believe that **Agents will change the world** 🌍, and I'm actively contribut
 
 ## 🚀 What I'm Building
 
-I'm currently working on **[mini-OpenCode](https://github.com/amszuidas/mini-opencode)** - a lightweight, minimalist agentic coding system designed to help newcomers understand how coding agents really work under the hood.
+I'm currently working on **[NeoClaw](https://github.com/amszuidas/neoclaw)** - a scalable AI super assistant designed with a Gateway architecture. It seamlessly integrates **Feishu (Lark)** with **Claude Code**, bringing powerful agentic capabilities (streaming responses, multi-modal support, memory systems) into enterprise collaboration tools.
 
-**mini-OpenCode** draws inspiration from:
-- [Deer-Code](https://github.com/MagicCube/deer-code)
-- [OpenCode](https://github.com/anomalyco/opencode)
+I'm also working on **[mini-OpenCode](https://github.com/amszuidas/mini-opencode)** - a lightweight, minimalist agentic coding system designed to help newcomers understand how coding agents really work under the hood.
 
-The goal? Strip away the complexity and show the elegant simplicity of agentic systems. Perfect for learners who want to grasp the fundamentals before diving into production-grade tools.
-
-**Come join the journey!** Check out **[mini-OpenCode](https://github.com/amszuidas/mini-opencode)** and let's build something amazing together.
+**Come join the journey!** Check out **[NeoClaw](https://github.com/amszuidas/neoclaw)** and **[mini-OpenCode](https://github.com/amszuidas/mini-opencode)**, and let's build something amazing together.
 
 ## 🌱 What I Believe
 
