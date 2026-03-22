@@ -33,4 +33,3 @@ I'm also working on **[mini-OpenCode](https://github.com/amszuidas/mini-opencode
 
 - 🐙 GitHub: [@AmsZuidas](https://github.com/amszuidas)
 - 📕 小红书 (Xiaohongshu): [@Ams赵达思](https://xhslink.com/m/7pdkNvQvce2)
-- 🎵 抖音 (Douyin): [@Ams赵达思](https://v.douyin.com/qUFkKqIszEo/)
