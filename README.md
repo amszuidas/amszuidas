@@ -10,17 +10,9 @@
 
 ## 💫 About Me
 
-I'm a software engineer currently working at a major tech company.
+I'm a software engineer currently working at an AI startup.
 
 I believe that **Agents will change the world** 🌍, and I'm actively contributing to making that future a reality.
-
-## 🚀 What I'm Building
-
-I'm currently working on **[NeoClaw](https://github.com/amszuidas/neoclaw)** - a scalable AI super assistant designed with a Gateway architecture. It seamlessly integrates **Feishu (Lark)** with **Claude Code**, bringing powerful agentic capabilities (streaming responses, multi-modal support, memory systems) into enterprise collaboration tools.
-
-I'm also working on **[mini-OpenCode](https://github.com/amszuidas/mini-opencode)** - a lightweight, minimalist agentic coding system designed to help newcomers understand how coding agents really work under the hood.
-
-**Come join the journey!** Check out **[NeoClaw](https://github.com/amszuidas/neoclaw)** and **[mini-OpenCode](https://github.com/amszuidas/mini-opencode)**, and let's build something amazing together.
 
 ## 🌱 What I Believe
 
