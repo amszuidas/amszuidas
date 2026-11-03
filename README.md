@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm AmsZuidas
+# Hi there! 👋 I'm Atlas
 
 <div align="center">
   
@@ -23,5 +23,5 @@ I believe that **Agents will change the world** 🌍, and I'm actively contribut
 
 ## 📫 Connect With Me
 
-- 🐙 GitHub: [@AmsZuidas](https://github.com/amszuidas)
-- 📕 小红书 (Xiaohongshu): [@Ams赵达思](https://xhslink.com/m/7pdkNvQvce2)
+- 🐙 GitHub: [@Atlas Han](https://github.com/amszuidas)
+- 📕 小红书 (Xiaohongshu): [@Atlas Han](https://xhslink.com/m/7pdkNvQvce2)
